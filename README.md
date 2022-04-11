@@ -12,7 +12,7 @@
 
 6. After that right-click the copied keymaker and then select the "Run as administrator".
 
-7. Then fill the field by entering any gmail (eg:- abcd@gmail.com). Then click the Register Application button.
+7. Then fill the field by entering any gmail address (eg:- abcd@gmail.com). Then click the Register Application button.
 
 8. Now you can see the registered Bandicam application.
 
