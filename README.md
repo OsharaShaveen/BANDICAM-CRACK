@@ -1,8 +1,8 @@
 # How to do .... 🙂
 
-1. You should install Bandicam in the normal way.
+1. Download the above zip file. 
 
-2. Download the above zip file.
+2. You should install Bandicam in the normal way (Bandicam setup has in the zip file). 
 
 3. Then unzip that file using the password (Password = Bandicam).
 
