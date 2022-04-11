@@ -1,4 +1,4 @@
-#How to do .... 🙂
+# How to do .... 🙂
 
 1. You should install Bandicam in the normal way.
 
@@ -17,4 +17,4 @@
 8. Now you can see the registered Bandicam application.
 
 
-:)  Thank you...
+ Thank you... 🙂
