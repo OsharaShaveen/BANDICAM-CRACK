@@ -1,0 +1,1 @@
+# BANDICAM_CRACK
