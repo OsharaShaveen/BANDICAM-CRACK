@@ -1,4 +1,4 @@
-# BANDICAM_CRACK
+#How to do .... 🙂
 
 1. You should install Bandicam in the normal way.
 
