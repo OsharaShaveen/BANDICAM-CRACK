@@ -17,7 +17,7 @@
 8. Now you can see the registered Bandicam application.
 
 
-More Details :- https://www.youtube.com/watch?v=HzVeIhCdV4Y
+
 
  Thank you... 🙂
  
